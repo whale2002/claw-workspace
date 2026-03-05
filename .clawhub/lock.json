@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "skills": {
+    "self-improving-agent": {
+      "version": "1.0.11",
+      "installedAt": 1772606647448
+    },
+    "calorie-counter": {
+      "version": "1.0.0",
+      "installedAt": 1772681828683
+    }
+  }
+}
